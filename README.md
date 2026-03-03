@@ -192,7 +192,7 @@ Subscriber retention planning
 
 🚀 How to Run the Project
 # Clone the repository
-git clone https://github.com/rk583578/amazon-prime-eda.git
+git clone https://github.com/rk583578/Capstone-Project-EDA/
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn
