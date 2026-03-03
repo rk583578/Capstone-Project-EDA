@@ -206,9 +206,8 @@ Amazon-Prime-EDA/
 ├── credits.csv
 ├── EDA_Notebook.ipynb
 ├── README.md
-👤 Author
 
-Raushan Gupta
+👤 Author Raushan Gupta
 Data Analyst | Python | SQL | Power BI
 
 ⭐ Final Note
